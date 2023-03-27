@@ -9,3 +9,40 @@ body {
     font-size: 60px;
     font-weight: bold;
 }
+
+// // 
+
+.contentWrapper {
+	width: 750px;
+	padding: 0 20px;
+	margin: 0 auto;
+	position: relative;
+}
+
+#signUp {
+	margin-top: 10px;
+	padding: 0 20px 15px 20px;
+	border: 1px solid #bbb;
+    background-color: lightgreen;
+}
+
+.textfield {
+	font-family: "Courier New", Courier, monospace;
+	font-size: 14px;
+	padding: 7px;
+	background: #efefef;
+	border: 1px solid #bbb;
+	width: 97%;
+}
+
+#submit {
+	display: block;
+	font-size: 1em;
+	color: #FFF;
+	text-transform: uppercase;
+	background: #a2a50d;
+	padding: .8em 1em .7em;
+	border: 0;
+	border-bottom: 3px solid #7d820c;
+	margin-top: 15px;
+}
